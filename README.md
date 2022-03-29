@@ -1,2 +1,3 @@
-# hidden_eye
-HiddenEye – Modern Phishing Tool With Advanced Functionality
+# Hidden_eye
+<h1>HiddenEye – Modern Phishing Tool With Advanced Functionality</h1>
+<p>A phishing attack is the most executed attack in the real world. Phishing is a social-engineering attack in which a victim is being tricked and the sensitive data is being captured by the attacker. A genuine website is being cloned and assumed that the cloned website is genuine. There are various techniques to make a phishing page. HiddenEye is an automated tool that is the best in the category of Phishing. HiddenEye tool is developed in the Python Language, available on the GitHub platform, it’s free and open-source to use. HiddenEye tool supports Facebook, Instagram, Twitter, etc social platforms.</p>
